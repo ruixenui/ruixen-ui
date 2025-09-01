@@ -1,5 +1,4 @@
-import { SiteBanner } from "@/components/site-banner";
-import { SiteFooter } from "@/components/site-footer";
+import SiteFooter from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 
 interface MarketingLayoutProps {
@@ -14,7 +13,7 @@ export default async function MarketingLayout({
       {/* <SiteBanner /> */}
       <SiteHeader />
       <main className="flex-1">{children}</main>
-      {/* <SiteFooter /> */}
+      <SiteFooter />
     </>
   );
 }
