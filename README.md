@@ -27,17 +27,3 @@ Visit our [contributing guide](https://github.com/ruixenui/ruixen/blob/main/CONT
 <a href="https://github.com/ruixenui/ruixen/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=ruixenui/ruixen" />
 </a>
-
-## Deploy
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fruixenui%2Fruixenui)
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kd94U5?referralCode=xaYd2G)
-
-## Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/38b63c4514a8a4cd7d1307985af2889c78d67bcc.svg "Repobeats analytics image")
-
-## License
-
-Licensed under the [MIT license](https://github.com/ruixenui/ruixen/blob/main/LICENSE.md).
