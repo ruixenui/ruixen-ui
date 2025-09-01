@@ -15,7 +15,7 @@ export async function SiteHeader() {
 
   try {
     const response = await fetch(
-      "https://api.github.com/repos/ruixenui/ruixen",
+      "https://api.github.com/repos/ruixenui/ruixen-ui",
       {
         headers: process.env.GITHUB_OAUTH_TOKEN
           ? {

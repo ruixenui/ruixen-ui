@@ -22,4 +22,4 @@ SOFTWARE.
 
 ---
 
-_This license text is adapted from the MIT License originally distributed with Ruixen UI._
+_This license text is adapted from the MIT License originally distributed with Magic UI._
