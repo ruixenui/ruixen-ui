@@ -112,7 +112,7 @@ export const ComponentWrapper = ({
         {/* <div className="px-2 py-1 text-xs bg-black/10 dark:bg-white/10 rounded backdrop-blur-sm">
           {Math.round(scale * 100)}%
         </div> */}
-        {/* <OpenInV0Button url={`https://ruixen.com/r/${name}.json`} /> */}
+        <OpenInV0Button url={`https://ruixen.com/r/${name}.json`} />
         <Button
           onClick={() => setKey((prev) => prev + 1)}
           className="flex items-center rounded-lg px-3 py-1"
