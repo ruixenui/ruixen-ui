@@ -13,7 +13,7 @@ export default async function MarketingLayout({
       {/* <SiteBanner /> */}
       <SiteHeader />
       <main className="flex-1">{children}</main>
-      <SiteFooter />
+      {/* <SiteFooter /> */}
     </>
   );
 }
