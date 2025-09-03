@@ -939,7 +939,7 @@ export const examples: Registry["items"] = [
     title: "Social Card Demo",
     description:
       "Example showing a social media style card component with engagement features.",
-    registryDependencies: ["social-card"],
+    registryDependencies: ["https://www.ruixen.com/r/social-card"],
     files: [
       {
         path: "registry/example/social-card-demo.tsx",
